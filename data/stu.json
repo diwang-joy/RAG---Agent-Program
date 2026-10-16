@@ -1,0 +1,12 @@
+{
+    "name": "Ember",
+    "age": 25,
+    "hobby": [
+        "reading",
+        "singing"
+    ],
+    "other": {
+        "addr": "Tianjin",
+        "tel": "12345678901"
+    }
+}
